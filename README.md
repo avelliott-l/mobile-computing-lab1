@@ -1,8 +1,4 @@
 # Mobile Computing Lab 1
 
-This repository contains Unity template code for Lab 1.
-
-In this lab, you will be setting up the Quest 2 headset with Unity, collect sensor data, and visualize that data in preparation for future labs.
-
-Submission will be via Gradescope. For more details, see the assignment page on Canvas.
+Programmed an activity classification algorithm that determines the activity being performed when provided a sensor trace of continuous activity using a statistical threshold classifier based on the means and variances of significant sensor attributes and a training set that consisted of 696 sample sensor traces for various activities
 
